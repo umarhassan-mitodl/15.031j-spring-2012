@@ -5,6 +5,8 @@ description: This resource contains information related to clean coal/ dirty air
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/822db6ba4ff384832533c82cf88f0e36_MIT15_031JS12_Trd_Fth_Cse.pdf
 file_size: 135538
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

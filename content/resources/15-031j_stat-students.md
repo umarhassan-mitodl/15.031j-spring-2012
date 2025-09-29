@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/6b86c85e331814b5e3b7ebd4ad54aa2a_15-031J_stat-students.png
 file_size: 4065
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

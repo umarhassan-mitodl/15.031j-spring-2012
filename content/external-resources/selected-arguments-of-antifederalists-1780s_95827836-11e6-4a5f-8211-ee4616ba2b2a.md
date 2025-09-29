@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.pinzler.com/ushistory/argantfedsupp.html
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Selected Arguments of Antifederalists (1780s)

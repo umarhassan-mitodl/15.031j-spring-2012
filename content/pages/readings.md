@@ -3,6 +3,8 @@ content_type: page
 description: This section provides the the list of required and recommended readings
   for each lecture session, and information on commonly references texts.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

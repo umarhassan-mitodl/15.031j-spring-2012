@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://nap.nationalacademies.org/resource/12785/Limiting_Report_Brief_final.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Limiting the Magnitude of Future Climate Change: Report in Brief'

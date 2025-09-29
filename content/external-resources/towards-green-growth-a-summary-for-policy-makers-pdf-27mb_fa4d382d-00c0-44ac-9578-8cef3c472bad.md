@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.oecd.org/greengrowth/48012345.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: '"Towards Green Growth: A Summary for Policy Makers." (PDF - 2.7MB)'

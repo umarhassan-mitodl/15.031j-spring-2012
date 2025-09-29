@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://all62.jp/ecoacademy/images/15/green_economy_report.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: '"Towards a Green Economy."'

@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://books.google.com/books?id=g07Q9M4agp4C&pg=PA227#v=onepage
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Google Books

@@ -5,6 +5,8 @@ description: This resource contains information regarding the economics of energ
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/1513e1255829f61871c7c89e8f604209_MIT15_031JS12_Eco_Eny_Dem.pdf
 file_size: 173207
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
