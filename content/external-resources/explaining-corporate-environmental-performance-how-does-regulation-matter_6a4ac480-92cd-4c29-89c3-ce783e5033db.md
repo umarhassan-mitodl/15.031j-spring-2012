@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=299239
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Explaining Corporate Environmental Performance: How Does Regulation Matter?'

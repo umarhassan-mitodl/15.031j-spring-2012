@@ -4,8 +4,6 @@ description: This resource contains information regarding biodiesel@MIT.
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/d2bdd05b2542d44165afee4e31c02fb0_MIT15_031JS12_Biodiesel.pdf
 file_size: 192540
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

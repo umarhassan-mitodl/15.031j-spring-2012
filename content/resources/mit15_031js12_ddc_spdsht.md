@@ -5,8 +5,6 @@ description: This resource contains information regarding derived demand and cap
 file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/4354c5cfb9c3e3ccd0a62e6150761a3f_MIT15_031JS12_DDC_Spdsht.xlsx
 file_size: 40404
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
